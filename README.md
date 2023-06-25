@@ -24,8 +24,8 @@
           <tr>
       <td>Checkout-Project</td></td>
       <td><a href="https://github.com/achieve-software/40-Checkout-Project">Repo Details</td>
-      <td><a href="">Live App</td>
-      <td><img src=""></td>
+      <td><a href="https://dashing-syrniki-41189d.netlify.app/">Live App</td>
+      <td><img src="https://raw.githubusercontent.com/achieve-software/achieve-software/main/img/checkout.gif"></td>
     </tr>
           <tr>
       <td>Appetizer</td></td>
