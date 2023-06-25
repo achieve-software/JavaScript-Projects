@@ -15,5 +15,72 @@
       <td><a href="https://serene-khapse-2e1043.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/guess1.gif" alt="NBA Legends App"></td>
     </tr>
+          <tr>
+      <td>To-do-app</td></td>
+      <td><a href="">Repo Details</td>
+      <td><a href="">Live App</td>
+      <td><img src=""></td>
+    </tr>
+          <tr>
+      <td>Checkout-Project</td></td>
+      <td><a href="">Repo Details</td>
+      <td><a href="">Live App</td>
+      <td><img src=""></td>
+    </tr>
+          <tr>
+      <td>Appetizer</td></td>
+      <td><a href="">Repo Details</td>
+      <td><a href="">Live App</td>
+      <td><img src=""></td>
+    </tr>
+          <tr>
+      <td>Color Flipper</td></td>
+      <td><a href="">Repo Details</td>
+      <td><a href="">Live App</td>
+      <td><img src=""></td>
+    </tr>
+          <tr>
+      <td>Progress Steps</td></td>
+      <td><a href="">Repo Details</td>
+      <td><a href="">Live App</td>
+      <td><img src=""></td>
+    </tr>
+              <tr>
+      <td>RGB-Color-Slider</td></td>
+      <td><a href="">Repo Details</td>
+      <td><a href="">Live App</td>
+      <td><img src=""></td>
+    </tr>
+              <tr>
+      <td>Counter-project</td></td>
+      <td><a href="">Repo Details</td>
+      <td><a href="">Live App</td>
+      <td><img src=""></td>
+    </tr>
+          <tr>
+      <td>Counter-project 2</td></td>
+      <td><a href="">Repo Details</td>
+      <td><a href="">Live App</td>
+      <td><img src=""></td>
+    </tr>
+           <tr>
+      <td>mult-app</td></td>
+      <td><a href="">Repo Details</td>
+      <td><a href="">Live App</td>
+      <td><img src=""></td>
+    </tr>
+           <tr>
+      <td>ispalindrome</td></td>
+      <td><a href="">Repo Details</td>
+      <td><a href="">Live App</td>
+      <td><img src=""></td>
+    </tr>
+          <tr>
+      <td> Weather-app</td></td>
+      <td><a href="">Repo Details</td>
+      <td><a href="">Live App</td>
+      <td><img src=""></td>
+    </tr>
+       
   </tbody>
 </table>
