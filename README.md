@@ -36,8 +36,8 @@
           <tr>
       <td>Color Flipper</td></td>
       <td><a href="https://github.com/achieve-software/42-Color-Flipper">Repo Details</td>
-      <td><a href="">Live App</td>
-      <td><img src=""></td>
+      <td><a href="https://profound-speculoos-962434.netlify.app/">Live App</td>
+      <td><img src="https://raw.githubusercontent.com/achieve-software/achieve-software/main/img/color.gif"></td>
     </tr>
           <tr>
       <td>Progress Steps</td></td>
