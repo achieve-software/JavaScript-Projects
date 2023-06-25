@@ -17,55 +17,55 @@
     </tr>
           <tr>
       <td>To-do-app</td></td>
-      <td><a href="">Repo Details</td>
+      <td><a href="https://github.com/achieve-software/39-Todo-App">Repo Details</td>
       <td><a href="">Live App</td>
       <td><img src=""></td>
     </tr>
           <tr>
       <td>Checkout-Project</td></td>
-      <td><a href="">Repo Details</td>
+      <td><a href="https://github.com/achieve-software/40-Checkout-Project">Repo Details</td>
       <td><a href="">Live App</td>
       <td><img src=""></td>
     </tr>
           <tr>
       <td>Appetizer</td></td>
-      <td><a href="">Repo Details</td>
+      <td><a href="https://github.com/achieve-software/41-Appetizer">Repo Details</td>
       <td><a href="">Live App</td>
       <td><img src=""></td>
     </tr>
           <tr>
       <td>Color Flipper</td></td>
-      <td><a href="">Repo Details</td>
+      <td><a href="https://github.com/achieve-software/42-Color-Flipper">Repo Details</td>
       <td><a href="">Live App</td>
       <td><img src=""></td>
     </tr>
           <tr>
       <td>Progress Steps</td></td>
-      <td><a href="">Repo Details</td>
+      <td><a href="https://github.com/achieve-software/43-Progress-Steps">Repo Details</td>
       <td><a href="">Live App</td>
       <td><img src=""></td>
     </tr>
               <tr>
       <td>RGB-Color-Slider</td></td>
-      <td><a href="">Repo Details</td>
+      <td><a href="https://github.com/achieve-software/44-RGB-Color-Slider">Repo Details</td>
       <td><a href="">Live App</td>
       <td><img src=""></td>
     </tr>
               <tr>
       <td>Counter-project</td></td>
-      <td><a href="">Repo Details</td>
+      <td><a href="https://github.com/achieve-software/45-Counter-project">Repo Details</td>
       <td><a href="">Live App</td>
       <td><img src=""></td>
     </tr>
           <tr>
       <td>Counter-project 2</td></td>
-      <td><a href="">Repo Details</td>
+      <td><a href="https://github.com/achieve-software/46-Counter-project2">Repo Details</td>
       <td><a href="">Live App</td>
       <td><img src=""></td>
     </tr>
            <tr>
       <td>mult-app</td></td>
-      <td><a href="">Repo Details</td>
+      <td><a href="https://github.com/achieve-software/47-mult-app">Repo Details</td>
       <td><a href="">Live App</td>
       <td><img src=""></td>
     </tr>
@@ -77,7 +77,7 @@
     </tr>
           <tr>
       <td> Weather-app</td></td>
-      <td><a href="">Repo Details</td>
+      <td><a href="https://github.com/achieve-software/51-Weather-app">Repo Details</td>
       <td><a href="">Live App</td>
       <td><img src=""></td>
     </tr>
