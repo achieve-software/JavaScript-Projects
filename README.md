@@ -30,8 +30,8 @@
           <tr>
       <td>Appetizer</td></td>
       <td><a href="https://github.com/achieve-software/41-Appetizer">Repo Details</td>
-      <td><a href="">Live App</td>
-      <td><img src=""></td>
+      <td><a href="https://polite-fudge-6f1ddb.netlify.app/">Live App</td>
+      <td><img src="https://raw.githubusercontent.com/achieve-software/achieve-software/main/img/appetizer-min.gif"></td>
     </tr>
           <tr>
       <td>Color Flipper</td></td>
