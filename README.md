@@ -15,6 +15,12 @@
       <td><a href="https://serene-khapse-2e1043.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/guess1.gif" alt="NBA Legends App"></td>
     </tr>
+        <tr>
+      <td>IOS Calculator</td></td>
+      <td><a href="https://github.com/achieve-software/5IosCalculator">Repo Details</td>
+      <td><a href="https://leafy-heliotrope-83764c.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/%C4%B1os%20calculator.gif?raw=true" alt="IOS Calculator"></td>
+    </tr>
           <tr>
       <td>To-do-app</td></td>
       <td><a href="https://github.com/achieve-software/39-Todo-App">Repo Details</td>
