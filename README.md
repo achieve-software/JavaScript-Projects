@@ -42,14 +42,14 @@
           <tr>
       <td>Progress Steps</td></td>
       <td><a href="https://github.com/achieve-software/43-Progress-Steps">Repo Details</td>
-      <td><a href="">Live App</td>
-      <td><img src=""></td>
+      <td><a href="https://marvelous-madeleine-2b56a3.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/progressbar.gif?raw=true"></td>
     </tr>
               <tr>
       <td>RGB-Color-Slider</td></td>
       <td><a href="https://github.com/achieve-software/44-RGB-Color-Slider">Repo Details</td>
-      <td><a href="">Live App</td>
-      <td><img src=""></td>
+      <td><a href="https://mellow-bubblegum-80a547.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/rgb%20color%20slider.gif?raw=true"></td>
     </tr>
               <tr>
       <td>Counter-project</td></td>
