@@ -71,7 +71,7 @@
     </tr>
            <tr>
       <td>ispalindrome</td></td>
-      <td><a href="">Repo Details</td>
+      <td><a href="https://github.com/achieve-software/50-ispalindrome">Repo Details</td>
       <td><a href="https://gentle-babka-dda712.netlify.app/">Live App</td>
       <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/ispalindrome.gif?raw=true"></td>
     </tr>
