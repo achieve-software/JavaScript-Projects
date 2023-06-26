@@ -54,8 +54,8 @@
               <tr>
       <td>Counter-project</td></td>
       <td><a href="https://github.com/achieve-software/45-Counter-project">Repo Details</td>
-      <td><a href="">Live App</td>
-      <td><img src=""></td>
+      <td><a href="https://stellar-croquembouche-9eab8a.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/counter.gif?raw=true"></td>
     </tr>
           <tr>
       <td>Counter-project 2</td></td>
