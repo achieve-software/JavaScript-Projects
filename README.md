@@ -60,20 +60,20 @@
           <tr>
       <td>Counter-project 2</td></td>
       <td><a href="https://github.com/achieve-software/46-Counter-project2">Repo Details</td>
-      <td><a href="">Live App</td>
-      <td><img src=""></td>
+      <td><a href="https://papaya-sable-f51abe.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/counter2.gif?raw=true"></td>
     </tr>
            <tr>
       <td>mult-app</td></td>
       <td><a href="https://github.com/achieve-software/47-mult-app">Repo Details</td>
-      <td><a href="">Live App</td>
-      <td><img src=""></td>
+      <td><a href="https://marvelous-choux-461585.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/mult-app.gif?raw=true"></td>
     </tr>
            <tr>
       <td>ispalindrome</td></td>
       <td><a href="">Repo Details</td>
-      <td><a href="">Live App</td>
-      <td><img src=""></td>
+      <td><a href="https://gentle-babka-dda712.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/ispalindrome.gif?raw=true"></td>
     </tr>
           <tr>
       <td> Weather-app</td></td>
